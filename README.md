@@ -1,24 +1,42 @@
 # 🛡️ FraudXPay - AI Fraud Detection System
 
-## 📌 Overview
-FraudXPay is an AI-powered fraud detection system that analyzes financial transactions in real-time using Machine Learning and Behavioral Analysis.
+An intelligent system that detects fraudulent transactions using Machine Learning and Behavioral Analysis.
 
-## 🚀 Features
-- 🔍 Real-time fraud detection using RandomForest
-- 🧠 Behavioral anomaly detection
-- 📊 SHAP Explainable AI (feature importance)
-- 📁 Batch CSV fraud analysis
-- 📈 Interactive dashboard using Streamlit
+---
+
+## 🚀 Live Demo  
+👉 [FraudXPay link](https://fraudxpaynew-ixvwegstgygc5ksz8vdwa5.streamlit.app/)
+
+---
+
+## ✨ Features
+- 🔍 Real-time fraud prediction  
+- 📂 CSV file upload support  
+- 🧠 Behavioral anomaly detection  
+- 📊 Interactive dashboard  
+
+---
 
 ## 🛠️ Tech Stack
-- Python
-- Streamlit
-- Scikit-learn
-- Pandas & NumPy
-- Plotly
-- SHAP
+- Python  
+- Streamlit  
+- Machine Learning  
+- Pandas, NumPy  
 
-## ▶️ How to Run Locally
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+---
+
+## 📌 How to Use
+1. Open the live demo link  
+2. Enter transaction details OR upload CSV  
+3. Click on predict  
+4. View fraud detection results  
+
+---
+
+## 📷 Project Preview
+(Add screenshots here later)
+
+---
+
+## 👩‍💻 Author
+Renuka Nayak
